@@ -1,2 +1,3 @@
 # Project 5 out of 5
- Aim training game
+
+### Check out the project without downloading anything: https://eduardraducanu.github.io/Project-5-out-of-5/
